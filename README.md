@@ -1,8 +1,9 @@
 INDUSTRIAL DEFECT DETECTION 
 
 INTRODUCTION: 
+        Industrial defect detection is a crucial process in manufacturing to ensure product quality and reduce waste. This project uses OpenCV-based image processing techniques to automatically identify surface defects such as scratches, holes, or dents in product images. It provides a simple, efficient, and cost-effective solution for visual inspection without relying on complex machine learning models.
 
-          Industrial defect detection is a vital process in modern manufacturing systems, used to identify flaws or inconsistencies in products before they reach the consumer. Traditional manual inspection methods are often time-consuming, expensive, and error-prone. With advancements in image processing and computer vision, automated defect detection systems have become a preferred solution. This project focuses on utilizing Python and OpenCV to develop a simple, efficient defect detection system for industrial products by analyzing visual anomalies in images. 
+
 
 ABSTRACT: 
 
